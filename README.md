@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Dylano Ahles <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h4 align="center">Also known as "krepped" to other people.</h4>
+<h4 align="center">Also known as "Krep" to other people.</h4>
 <h3 align="center">Software Developer, mbo Level 4 Student and Lua / Luau lover</h3>
 
 - 🔭 I'm currently working on **Obscura**, my own script protection platform
@@ -15,9 +15,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/krunkify" target="blank"><img align="center"
+  <a href="https://github.com/krepped" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="krunkify" height="30" width="40" /></a>
+      alt="krepped" height="30" width="40" /></a>
   <a href="mailto:contact@krepped.nl" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
       alt="contact@krepped.nl" height="30" width="40" /></a>
@@ -38,6 +38,6 @@
 <br>
 <h3>Statistical Data :-</h3>
 
-[![Dylano's GitHub stats](https://github-readme-stats.vercel.app/api?username=krunkify&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Krep's GitHub stats](https://github-stats-extended.vercel.app/api?username=krepped&count_private=true&show_icons=true&theme=buefy)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunkify&show_icons=true&theme=buefy&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=krepped&show_icons=true&theme=buefy&langs_count=8&layout=compact)](https://github.com/stats-organization/github-stats-extended)
