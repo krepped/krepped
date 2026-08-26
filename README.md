@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Dylano Ahles <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h4 align="center">Also known as "Krep" to other people.</h4>
+<h4 align="center">Also known as "krepped" to other people.</h4>
 <h3 align="center">Software Developer, mbo Level 4 Student and Lua / Luau lover</h3>
 
 - 🔭 I'm currently working on **Obscura**, my own script protection platform
@@ -19,8 +19,14 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="krepped" height="30" width="40" /></a>
   <a href="mailto:contact@krepped.nl" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      src="https://cdn.simpleicons.org/gmail/EA4335"
       alt="contact@krepped.nl" height="30" width="40" /></a>
+  <a href="https://discord.com/users/250445392905371648" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="krep" height="30" width="40" /></a>
+  <a href="https://krepped.nl" target="blank"><img align="center"
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"
+      alt="krepped.nl" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -38,6 +44,6 @@
 <br>
 <h3>Statistical Data :-</h3>
 
-[![Krep's GitHub stats](https://github-stats-extended.vercel.app/api?username=krepped&count_private=true&show_icons=true&theme=buefy)](https://github.com/stats-organization/github-stats-extended)
+[![Dylano's GitHub stats](https://github-stats-extended.vercel.app/api?username=krepped&count_private=true&show_icons=true&theme=buefy)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=krepped&show_icons=true&theme=buefy&langs_count=8&layout=compact)](https://github.com/stats-organization/github-stats-extended)
