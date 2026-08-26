@@ -18,6 +18,9 @@
   <a href="https://github.com/krepped" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="krepped" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krep/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="krep" height="30" width="40" /></a>
   <a href="mailto:contact@krepped.nl" target="blank"><img align="center"
       src="https://cdn.simpleicons.org/gmail/EA4335"
       alt="contact@krepped.nl" height="30" width="40" /></a>
