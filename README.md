@@ -1,5 +1,4 @@
-<h1 align="center">Hey there, I'm Dylano Ahles <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h4 align="center">Also known as "Krep" to other people.</h4>
+<h1 align="center">Hey there, I'm Krep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Software Developer, mbo Level 4 Student and Lua / Luau lover</h3>
 
 - 🔭 I'm currently working on **Obscura**, my own script protection platform
