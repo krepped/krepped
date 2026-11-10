@@ -1,14 +1,14 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-dark.svg" alt="Krep / Full-stack developer. I build the whole thing. krepped.nl" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://krepped.nl/github/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://krepped.nl/github/header-light.svg">
+  <img src="https://krepped.nl/github/header-dark.svg" alt="Krep / Full-stack developer. I build the whole thing. krepped.nl" width="100%">
 </picture>
 </p>
 
 I'm Krep, a full-stack developer from the Netherlands. I take projects all the way, from the first sketch to the servers they run on. The part I care about most comes after the demo: turning something that works into something people rely on.
 
-<sub>Over here it's 7°C and grey. The sun sets at 16:55.</sub>
+<sub>Over here it's 8°C and partly cloudy. The sun sets at 16:55.</sub>
 
 <br>
 
@@ -17,13 +17,13 @@ I'm Krep, a full-stack developer from the Netherlands. I take projects all the w
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://krepped.nl/work/obscura/"><img src="./assets/obscura.jpg" alt="Obscura's website on a desktop screen and a phone" width="100%"></a>
+      <a href="https://krepped.nl/work/obscura/"><img src="https://krepped.nl/work/obscura-1200.jpg" alt="Obscura's website on a desktop screen and a phone" width="100%"></a>
       <br><br>
       <b><a href="https://krepped.nl/work/obscura/">Obscura</a></b><br>
       <sub>Luau obfuscator and key system for Roblox scripts. Built solo, released 2 July 2026.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/soon.jpg" alt="A project in the works: its screen still says Coming soon" width="100%">
+      <img src="https://krepped.nl/work/soon-a-1200.jpg?v=2" alt="A project in the works: its screen still says Coming soon" width="100%">
       <br><br>
       <b>Coming soon</b><br>
       <sub>Something new is being built right now.</sub>
@@ -54,4 +54,4 @@ JavaScript     Building with AI
 
 <br>
 
-<sub>This README rebuilds itself every 3 hours, with the weather over here and live numbers from obscuravm.com. Last refresh: Tuesday 10 November at 13:11 CET.</sub>
+<sub>This README rebuilds itself every 3 hours, with the weather over here and live numbers from obscuravm.com. Last refresh: Tuesday 10 November at 13:18 CET.</sub>
