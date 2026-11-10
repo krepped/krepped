@@ -1,7 +1,7 @@
 <!--
   Template for README.md: build.mjs fills in the {{…}} values every 3 hours and overwrites README.md,
   so edit this file, not README.md. The images theme themselves (light or dark with GitHub's theme).
-  The static ones live on krepped.nl/github/; live.svg is drawn by build.mjs and sits in this repo.
+  The static ones live on krepped.nl/github/; live.svg and footer.svg are drawn by build.mjs and sit in this repo.
 -->
 
 <p>
@@ -32,8 +32,11 @@
 <a href="mailto:contact@krepped.nl"><img src="https://krepped.nl/github/contact.svg" alt="Contact: questions, ideas, or just hello. contact@krepped.nl" width="100%"></a>
 </p>
 
+<!-- three tiles side by side: keep the <a> tags touching (no spaces or line breaks between them) -->
 <p>
-<a href="https://krepped.nl"><b>krepped.nl</b></a> &nbsp;·&nbsp; <a href="mailto:contact@krepped.nl">contact@krepped.nl</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/krep/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://discordapp.com/users/250445392905371648">Discord</a>
+<a href="https://krepped.nl"><img src="https://krepped.nl/github/link-website.svg" alt="Website: krepped.nl" width="33.333%"></a><a href="https://www.linkedin.com/in/krep/"><img src="https://krepped.nl/github/link-linkedin.svg" alt="LinkedIn: in/krep" width="33.333%"></a><a href="https://discordapp.com/users/250445392905371648"><img src="https://krepped.nl/github/link-discord.svg" alt="Discord: krepped" width="33.333%"></a>
 </p>
 
-<sub>Rebuilt every 3 hours by a GitHub Action, with live numbers from obscuravm.com. Last refresh: Tuesday 10 November at 14:29 CET, when it was 8°C and clear over here.</sub>
+<p>
+<a href="https://github.com/krepped/krepped"><img src="https://raw.githubusercontent.com/krepped/krepped/main/footer.svg" alt="Krep. Last refresh: 10 Nov at 14:36 CET. Netherlands: 8°C, clear. Rebuilt every 3 hours by a GitHub Action." width="100%"></a>
+</p>
