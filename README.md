@@ -17,7 +17,7 @@
 </p>
 
 <p>
-<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/krepped/krepped/main/live.svg" alt="Obscura right now: 3,350 users, 3,318,267 script runs, 730,802 runs, last 30 days, 21,468 keys, 188 countries, last 30 days, 100.00% uptime" width="100%"></a>
+<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/krepped/krepped/main/live.svg" alt="Obscura right now: 3,350 users, 3,318,301 script runs, 730,802 runs, last 30 days, 21,472 keys, 188 countries, last 30 days, 100.00% uptime" width="100%"></a>
 </p>
 
 <p>
@@ -36,4 +36,4 @@
 <a href="https://krepped.nl"><b>krepped.nl</b></a> &nbsp;·&nbsp; <a href="mailto:contact@krepped.nl">contact@krepped.nl</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/krep/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://discordapp.com/users/250445392905371648">Discord</a>
 </p>
 
-<sub>Rebuilt every 3 hours by a GitHub Action, with live numbers from obscuravm.com. Last refresh: Tuesday 10 November at 14:18 CET, when it was 8°C and clear over here.</sub>
+<sub>Rebuilt every 3 hours by a GitHub Action, with live numbers from obscuravm.com. Last refresh: Tuesday 10 November at 14:29 CET, when it was 8°C and clear over here.</sub>
