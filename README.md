@@ -1,9 +1,3 @@
-<!--
-  Template for README.md: build.mjs fills in the {{…}} values every 3 hours and overwrites README.md,
-  so edit this file, not README.md. The images theme themselves (light or dark with GitHub's theme).
-  The static ones live on krepped.nl/github/; live.svg and footer.svg are drawn by build.mjs and sit in this repo.
--->
-
 <p>
 <a href="https://krepped.nl"><img src="https://krepped.nl/github/header.svg" alt="Krep / Full-stack developer. I build the whole thing. krepped.nl" width="100%"></a>
 </p>
