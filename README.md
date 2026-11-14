@@ -17,7 +17,7 @@
 </p>
 
 <p>
-<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/krepped/krepped/main/live.svg" alt="Obscura right now: 3,520 users, 3,340,449 script runs, 649,601 runs, last 30 days, 22,713 keys, 189 countries, last 30 days, 100.00% uptime" width="100%"></a>
+<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/krepped/krepped/main/live.svg" alt="Obscura right now: 3,537 users, 3,344,004 script runs, 649,050 runs, last 30 days, 22,842 keys, 189 countries, last 30 days, 100.00% uptime" width="100%"></a>
 </p>
 
 <p>
@@ -38,5 +38,5 @@
 </p>
 
 <p>
-<a href="https://github.com/krepped/krepped"><img src="https://raw.githubusercontent.com/krepped/krepped/main/footer.svg" alt="Krep. Last refresh: 14 Nov, 02:27 CET. Netherlands: 4°C, overcast. Rebuilt every 3 hours by a GitHub Action." width="100%"></a>
+<a href="https://github.com/krepped/krepped"><img src="https://raw.githubusercontent.com/krepped/krepped/main/footer.svg" alt="Krep. Last refresh: 14 Nov, 11:27 CET. Netherlands: 6°C, clear. Rebuilt every 3 hours by a GitHub Action." width="100%"></a>
 </p>
