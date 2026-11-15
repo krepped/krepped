@@ -19,7 +19,6 @@
 </p>
 
 <p>
-<a href="https://obscuravm.com"><img src="https://raw.githubusercontent.com/krepped/krepped/main/live.svg" alt="Obscura right now: 3,602 users, 3,355,707 script runs, 634,793 runs, last 30 days, 23,201 keys, 190 countries, last 30 days, 100.00% uptime" width="100%"></a>
 </p>
 
 <p>
