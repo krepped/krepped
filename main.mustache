@@ -13,7 +13,7 @@
 </p>
 
 <p>
-<a href="https://kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-kreplabs.svg" alt="Krep Labs: my independent studio building products people rely on. Live at kreplabs.com." width="100%"></a>
+<a href="https://kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-kreplabs.svg?v=1" alt="Krep Labs: my independent studio building products people rely on. Live at kreplabs.com." width="100%"></a>
 
 <a href="https://krepped.nl/work/obscura/"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-obscura.svg" alt="Obscura: a Luau obfuscator and key system for Roblox scripts. Built solo, released 2 July 2026. Explore the project on krepped.nl." width="100%"></a>
 </p>
