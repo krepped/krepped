@@ -13,6 +13,8 @@
 </p>
 
 <p>
+<a href="https://krepped.nl"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-portfolio.svg" alt="Portfolio: my personal site and selected work, built end to end. Live at krepped.nl." width="100%"></a>
+
 <a href="https://kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-kreplabs.svg?v=1" alt="Krep Labs: my independent studio building products people rely on. Live at kreplabs.com." width="100%"></a>
 
 <a href="https://krepped.nl/work/obscura/"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-obscura.svg" alt="Obscura: a Luau obfuscator and key system for Roblox scripts. Built solo, released 2 July 2026. Explore the project on krepped.nl." width="100%"></a>
@@ -22,7 +24,6 @@
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/work-soon.svg" alt="Coming soon: something new is being built right now." width="100%">
 </p>
 
 <p>
@@ -30,7 +31,7 @@
 </p>
 
 <p>
-<a href="mailto:contact@krepped.nl"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/contact.svg" alt="Contact: questions, ideas, or just hello. contact@krepped.nl" width="100%"></a>
+<a href="mailto:krep@kreplabs.com"><img src="https://raw.githubusercontent.com/krepped/krepped.nl/main/github/contact.svg" alt="Contact: questions, ideas, or just hello. krep@kreplabs.com" width="100%"></a>
 </p>
 
 <!-- three tiles side by side: keep the <a> tags touching (no spaces or line breaks between them) -->
