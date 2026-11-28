@@ -40,5 +40,5 @@
 </p>
 
 <p>
-<a href="https://github.com/krepped/krepped"><img src="https://raw.githubusercontent.com/krepped/krepped/main/footer.svg" alt="Krep. Last refresh: 28 Nov, 08:50 CET. Netherlands: -3°C, mostly clear. Rebuilt every 3 hours by a GitHub Action." width="100%"></a>
+<a href="https://github.com/krepped/krepped"><img src="https://raw.githubusercontent.com/krepped/krepped/main/footer.svg" alt="Krep. Last refresh: 28 Nov, 18:33 CET. Netherlands: 1°C, overcast. Rebuilt every 3 hours by a GitHub Action." width="100%"></a>
 </p>
